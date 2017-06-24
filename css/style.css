@@ -200,12 +200,8 @@ h1 {
 }
 
 .icons {
-	float: left;
-	margin-right: 10px;
-}
-
-.lasticon {
-	float: left;
+	font-size:36px;
+	color:#E50A0D;
 }
 
 .box {
@@ -219,15 +215,15 @@ p {
 	margin:0 auto 10px auto;
 }
 
-a {
-	color:#0b77aa;
+a, a:visited {
+	color:#E50A0D;
 	text-decoration: none;
 	font-weight: bold;
 }
 
 a:hover {
 	color:#57acd4;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 #github {
